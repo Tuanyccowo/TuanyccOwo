@@ -1,0 +1,14 @@
+Here all leave everything that i didn't understand:
+
+/pratica001.py
+a = type(input("escreva qualquer coisa: \n"))
+print(type(a))
+
+/pratica001.py result:
+escreva qualquer coisa: 
+45
+<class 'type'>
+
+i was trying to see the type of anything, i keep trying... and... i got here!! wherever is here.
+i would like some explanation, i... dont know how to say it... but in simple ways... i dont know what
+im doing i would like some help, thanks.
